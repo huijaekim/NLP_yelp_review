@@ -1,5 +1,9 @@
 # Natural Language Processing on Yelp Reviews
 
+This project can be found on blog:<br/>
+https://jaykimhuijae.wixsite.com/data-science/single-post/2017/11/11/Natural-Language-Processing-NLP
+<br/>
+<br/>
 Natural Language Processing (NLP) is widely used technique that is about the interactions between human languages and computer. Voice recognition, natural language generation/understanding are subcategories of NLP. NLP requires a lot of preprocessing in prior to the analysis, since most of the real-world text data are not well-written. Typos, slangs, and coined words are abundant or duplicated data to computer, and it cannot consider the same words in different forms as the same words. Native speakers (humans) need to clean out the text data for computers to help learning the natural languages.
 <br/>
  <br/>
